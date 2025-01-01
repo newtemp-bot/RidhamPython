@@ -11,7 +11,9 @@ k = '''Ashok
 prajapati
 '''
 
+a = 3+5j
 
+print(a)
 
 print(type(a))
 print(type(b))
